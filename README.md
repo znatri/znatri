@@ -1,4 +1,4 @@
-# Hi there, I'm Hardik Goel! 👋
+## Hi there, I'm Hardik Goel! 👋
 
 ## 👨‍💻 About Me
 
@@ -6,12 +6,16 @@ I'm a 4th year Computer Science student at Georgia Tech, passionate about Applie
 
 My ethos is to infuse creativity and passion into all my projects while fostering a collaborative team culture. 
 
+- 🔭 I’m currently working on building Human-robot interactions with computer vision
+- 🌱 I’m currently learning about autonomous driving using ICP Alogirhtm and SLAM.
+- 👯 I’m looking to collaborate on some data science projects.
+- 💬 Talk to me about robotics, music, people and philsophy!
+
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, C/C++, Java
-- **Machine Learning:** TensorFlow, Keras, PyTorch
-- **Web Development:** HTML, CSS, JavaScript, Node.js, React
-- **Version Control:** Git, GitHub
+- **Languages:** Python, C/C++, Java, Scala
+- **Machine Learning:** TensorFlow, PyTorch, Pandas
+- **Web Development:** HTML, CSS, JavaScript, Node.js, Vue
 
 ## 📫 How to Reach Me
 
