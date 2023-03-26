@@ -13,7 +13,7 @@ My ethos is to infuse creativity and passion into all my projects while fosterin
 - **Web Development:** HTML, CSS, JavaScript, Node.js, React
 - **Version Control:** Git, GitHub
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hardikgo/)
 
@@ -24,43 +24,43 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hardikgo/
 - [GT-CS3630-Robotics-Projects](https://github.com/znatri/GT-CS3630-Robotics-Projects): A collection of robotics projects completed as a part of the CS 3630 Robotics and Perception course at Georgia Tech.
  -->
  
- ## My course history at Georgia Tech:books:
+## 📚 My Course History at Georgia Tech
 
 #### Computer Science
-  - data structures and algorithms
-  - object oriented programming
-  - algorithms - design and analysis
-  - objects and design
-  - computer organization and programming
-  - systems programming
-  - computing and society
+  - Data Structures and Algorithms
+  - Object Oriented Programming
+  - Algorithms - Design and Analysis
+  - Objects and Design
+  - Computer Organization and Programming
+  - Systems Programming
+  - Computing and Society
   
 #### Engineering & Maths
-  - intro - linear algebra
-  - linear algebra
-  - discrete maths
-  - physics I & II
-  - calculus I & II
-  - differential calculus
-  - multi-variable calculus
-  - probability and statistics I
-  - statistics and it's applications
-  - probability theory
+  - Intro to Linear Algebra
+  - Linear Algebra
+  - Discrete Maths
+  - Physics I & II
+  - Calculus I & II
+  - Differential Calculus
+  - Multi-Variable Calculus
+  - Probability and Statistics I
+  - Statistics and Its Applications
+  - Probability Theory
 
 #### Robotics & AI
-  - intelligent systems
-  - intro - perception and robotics
-  - intro - computer vision
+  - Intelligent Systems
+  - Intro to Perception and Robotics
+  - Intro to Computer Vision
 
 #### Computational Media
-  -	computer graphics
-  -	computer audio
+  -	Computer Graphics
+  -	Computer Audio
 
 #### Electives
-  - french I & II
-  - general psychology
-  - intro - sociology
-  - american government
-  - economoics and policy
+  - French I & II
+  - General Psychology
+  - Intro to Sociology
+  - American Government
+  - Economics and Policy
 
 ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=znatri&show_icons=true&theme=radical)
