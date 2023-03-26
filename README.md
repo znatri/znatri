@@ -1,15 +1,15 @@
 ## Hi there, I'm Hardik Goel! 👋
 
+- 🔭 I’m currently working on building Human-robot interactions with computer vision
+- 🌱 I’m currently learning about autonomous driving using ICP Alogirhtm and SLAM.
+- 👯 I’m looking to collaborate on some data science projects.
+- 💬 Talk to me about robotics, music, people and philsophy!
+
 ## 👨‍💻 About Me
 
 I'm a 4th year Computer Science student at Georgia Tech, passionate about Applied Machine Learning, Computational Media, and Human-Robot Interactions. I have experience in Python, C/C++, and Java, and I'm always eager to learn new technologies.
 
 My ethos is to infuse creativity and passion into all my projects while fostering a collaborative team culture. 
-
-- 🔭 I’m currently working on building Human-robot interactions with computer vision
-- 🌱 I’m currently learning about autonomous driving using ICP Alogirhtm and SLAM.
-- 👯 I’m looking to collaborate on some data science projects.
-- 💬 Talk to me about robotics, music, people and philsophy!
 
 ## 🛠️ Skills & Technologies
 
