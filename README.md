@@ -7,7 +7,7 @@ I'm a Computer Science student and reseracher at Georgia Tech, passionate about 
 - 👯 I’m looking to collaborate on HRI research.
 - 💬 I enjoy playing Harmonium when I'm not working.
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 - **Languages:** Python, C++, Java, Scala, Javascript  
 - **Machine Learning:** TensorFlow, PyTorch, Pandas, Mediapipe
@@ -16,8 +16,6 @@ I'm a Computer Science student and reseracher at Georgia Tech, passionate about 
 - **AR/VR and Design**: Unity, Vuforia, OpenGL, D3.js, p5.js
 - **Tools / Methodologies**: Git, CI/CD, Agile, TDD, ROS, Tableau, GCC, GDB, JUnit
 
-## 📫 How to Reach Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hardikgo/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hardikgo/)
 
 ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=znatri&show_icons=true&theme=radical)
