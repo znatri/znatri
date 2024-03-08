@@ -12,7 +12,7 @@ I'm a Computer Science student and reseracher at Georgia Tech, passionate about 
 - **Languages:** Python, C++, Java, Scala, Javascript  
 - **Machine Learning:** TensorFlow, PyTorch, Pandas, Mediapipe
 - **Web Development:** React, Node.js, Flask, AWS, GCP, Firebase, Streamlit, Next.js, Vue.js 
-- **Cloud**: AWS (EC2, S3, DynamoDB, ECS, ECR), GCP, Docker, MongoDB
+- **Cloud**: AWS (EC2, S3, GraphQL, Amplify, DynamoDB, ECS, ECR), GCP, Docker, MongoDB
 - **AR/VR and Design**: Unity, Vuforia, OpenGL, D3.js, p5.js
 - **Tools / Methodologies**: Git, CI/CD, Agile, TDD, ROS, Tableau, GCC, GDB, JUnit
 
